@@ -30,4 +30,4 @@ return `${ "vowels" + ":" + " " + vowelCount(str)}, ${ "words" + ":" + " " + str
 }
  
 
-console.log(myFunction("i am the greatest")) // returns vowels : 6 , words: 5, length: 18;
+console.log(myFunction("i am the greatest")) // returns vowels : 6 , words: 4, length: 18;
